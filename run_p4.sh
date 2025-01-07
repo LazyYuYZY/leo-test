@@ -1,0 +1,1 @@
+p4c -b bmv2 -o p4src/build p4src/point1.p4
